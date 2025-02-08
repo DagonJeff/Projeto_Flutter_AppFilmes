@@ -1,6 +1,7 @@
-# myapp
+# App Filmes
 
-A new Flutter project.
+Projeto em Flutter de listagem de Filmes, e permitindo todas as ações de um CRUD com conexão direta ao Banco de dados.
+
 
 ## Getting Started
 
