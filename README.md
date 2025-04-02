@@ -1,10 +1,13 @@
 # App Filmes
 
 ![Dart](https://img.shields.io/badge/Dart-92.8%25-blue)
+![Nix](https://img.shields.io/badge/Nix-4.5%25-green)
+![HTML](https://img.shields.io/badge/HTML-2.5%25-orange)
+![Kotlin](https://img.shields.io/badge/Kotlin-0.2%25-purple)
 
 ## Descrição
 
-Projeto acadêmico realiazdo durante minha gradução em Análise e Desenvolvimento de Sistemas na disciplina de "Programação para dispositivos móveis" no 4º período, desenvolvido em Flutter para listagem de filmes, permitindo todas as ações de um CRUD com conexão direta ao banco de dados.
+Projeto acadêmico realizado durante minha gradução em Análise e Desenvolvimento de Sistemas na disciplina de "Programação para dispositivos móveis" no 4º período, desenvolvido em Flutter para listagem de filmes, permitindo todas as ações de um CRUD com conexão direta ao banco de dados.
 
 ## Funcionalidades
 
